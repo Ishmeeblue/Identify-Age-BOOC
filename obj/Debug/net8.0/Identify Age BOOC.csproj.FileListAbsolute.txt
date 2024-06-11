@@ -1,0 +1,14 @@
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\bin\Debug\net8.0\Identify Age BOOC.exe
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\bin\Debug\net8.0\Identify Age BOOC.deps.json
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\bin\Debug\net8.0\Identify Age BOOC.runtimeconfig.json
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\bin\Debug\net8.0\Identify Age BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\bin\Debug\net8.0\Identify Age BOOC.pdb
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\Identify Age BOOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\Identify Age BOOC.AssemblyInfoInputs.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\Identify Age BOOC.AssemblyInfo.cs
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\Identify Age BOOC.csproj.CoreCompileInputs.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\Identify Age BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\refint\Identify Age BOOC.dll
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\Identify Age BOOC.pdb
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\Identify Age BOOC.genruntimeconfig.cache
+C:\Users\Colline Blue\OneDrive\Desktop\BLUE PROGRAMMING\Identify Age BOOC\Identify Age BOOC\obj\Debug\net8.0\ref\Identify Age BOOC.dll
